@@ -1,7 +1,7 @@
 import java.util.List;
 import java.util.ArrayList;
 
-public class Fibonacci {
+public class Fibonacci{
 	 private List<Integer> lista = new ArrayList<Integer>();
 
 	    public void generarSecuencia (){
